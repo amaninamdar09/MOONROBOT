@@ -5,10 +5,10 @@
 </h2>
 
 <p align="center">
-  <img src="https://github.com/amaninamdar09/MOONROBOT/blob/master/FallenRobot/resources/fglitch.gif">
+  <img src="https://github.com/amaninamdar09/MOONROBOT/blob/master/MOONROBOT/resources/fglitch.gif">
 </p>
 
-_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [MOON ✘ ROBOT](https://t.me/FallenXRobot)**_
+_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [MOON ✘ ROBOT](https://t.me/MOONxROBOT)**_
 ━━━━━━━━━━━━━━━━━━━━
 
 
